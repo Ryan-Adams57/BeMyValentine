@@ -64,7 +64,7 @@ Share the link.
 
 # How It Works
 
-Stage 0: A letter appears on screen — click to open.
+Stage 0: A letter appears on screen - click to open.
 
 Stage 1: She solves the 3×3 sliding puzzle to reveal your photo.
 
@@ -74,7 +74,7 @@ Stage 2: The full image appears with:
 “Will you be my Valentine?”
 Along with a Yes button.
 
-Stage 3: She clicks “Yes” — celebration time.
+Stage 3: She clicks “Yes” - celebration time.
 
 # Customization
 
